@@ -38,8 +38,8 @@ MineShield is an integrated safety system for underground mining environments th
 ---
 
 ## 👨‍💻 Author
-**Sukesh Reddy**  
-lyricsofsongs96@gmail.com
+**Harshitha Chakinala**  
+harshithachakinala@gmail.com
 
 ---
 
